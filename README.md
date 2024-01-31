@@ -11,10 +11,5 @@ I enjoy crafting elegant solutions for complex problems and creating seamless us
 
 ## Skills
 
-- **Development:** HTML, CSS, JavaScript, Typescript, React, Node.js, React-Native, GSAP, Solid.js, MongoDB
-- **Design:** Figma, Photoshop, Illustrator, Premire Pro, After Effects
-
-## Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/george-volski/)
-- [Twitter](https://twitter.com/George656V)
+- **Development:** Typescript, React, Node.js, React-Native, Netxt.js, GSAP, Solid.js, MongoDB
+- **Design:** Figma, Photoshop, Blender, Illustrator, Premire Pro, After Effects
