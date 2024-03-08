@@ -1,4 +1,4 @@
-# Hi there
+# Hello
 
 I'm George, a passionate Full-Stack developer and UI/UX designer. Welcome to my GitHub profile!
 
@@ -11,5 +11,5 @@ I enjoy crafting elegant solutions for complex problems and creating seamless us
 
 ## Skills
 
-- **Development:** Typescript, React, Node.js, React-Native, Netxt.js, GSAP, Solid.js, MongoDB
-- **Design:** Figma, Photoshop, Blender, Illustrator, Premire Pro, After Effects
+- **Development:** Typescript, React, React-Native, NextJS, SolidJS, TailwindCSS, Sass, Mongoose, Qwik, GSAP, Framer Motion, Axios, Node.js, Express.js, MongoDB, Firebase
+- **Design:** Figma, Adobe Photosohp, Adobe Premiere Pro, Adobe After Effects, Adobe Illustrator, Blender,
