@@ -12,4 +12,4 @@ I am a self-taught web developer and designer dedicated to producing high-qualit
 - **Design:** Figma, Blender, Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, Adobe After Effects.
 - **Other:** Microsoft 365, Git, Github, Notion, Kanban.
 
-### [Check out my portfolio](https://portfolio-george-vol.vercel.app/)
+### [Check out my portfolio](https://georgev-portfolio.vercel.app/)
