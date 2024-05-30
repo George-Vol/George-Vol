@@ -1,6 +1,6 @@
 ## About Me
 
-I am a self-taught web developer and designer dedicated to producing high-quality work. I bring commitment, excellence, and a strong work ethic to every project. I thrive under pressure and welcome constructive criticism, always striving to improve. I excel at staying updated with the latest industry trends and technologies. I am eager to apply my skills to projects and contribute to their success.
+I am a self-taught web developer and designer dedicated to producing high-quality work. I bring commitment, excellence, and a strong work ethic to every project.
 
 - 🌐 Full-Stack Developer
 - 🎨 UI/UX Designer
