@@ -5,7 +5,7 @@ I am a self-taught web developer and designer dedicated to producing high-qualit
 - 🌐 Full-Stack Developer
 - 🎨 UI/UX Designer
 
-## Skills & Tool
+## Skills & Tools
 
 - **Front-End:** Typescript, React, React-Native, Next.js, Solid.js, SolidStart, Mongoose, Qwik, Sass, TailwindCSS, GSAP, Framer Motion, Auth.js, Axios, React Query, React Hook Form.
 - **Back-End:** Node.js, Express.js, MongoDB, Firebase.
