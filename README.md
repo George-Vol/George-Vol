@@ -1,13 +1,42 @@
-## About Me
+# Hello there 
 
-I am a self-taught web developer and designer dedicated to producing high-quality work. I bring commitment, excellence, and a strong work ethic to every project.
+I’m **George**, a Web Developer & Designer based in Georgia.  
+I build clean, scalable, and modern web applications.
 
-- 🌐 Full-Stack Developer
-- 🎨 UI/UX Designer
+---
 
-## Skills & Tools
+## 🚀 Tech Stack
 
-- **Front-End:** Next.js, React, React-Native, Typescript
-- **Back-End:** Node.js, Express.js.
-- **Design:** Figma, Blender, Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, Adobe After Effects.
+### Frontend
+- **React**
+- **Next.js**
+- **TypeScript**
+- **Tailwind CSS**
 
+### Backend
+- **Laravel**
+- **Express.js**
+
+### Design
+- **UI/UX Design**
+- **Graphic Design**
+- Component systems & design consistency
+- User-centered problem solving
+
+---
+
+## 🎯 What I Focus On
+
+- Building scalable and maintainable frontend architectures  
+- Creating reusable, well-structured component systems  
+- Designing intuitive and accessible user experiences  
+- Bridging the gap between design and development  
+- Writing clean, readable, production-ready code  
+
+---
+
+## 💡 About Me
+
+- Detail-oriented and quality-driven  
+- Constantly improving and refining my craft  
+- Focused on delivering real value through thoughtful products  
