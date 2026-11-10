@@ -6,78 +6,59 @@
 
 <p align="center">
   Full-stack developer and designer building fast, reliable web and mobile products.<br/>
-  Tbilisi, Georgia (UTC+4) · Open to remote roles
+  Good design and clean code are two sides of the same coin.
 </p>
 
 <p align="center">
-  <a href="https://georgev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-georgev.vercel.app-E5534B?style=for-the-badge&logo=vercel&logoColor=F5F5F4&labelColor=0E0E0D" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/george-volski"><img src="https://img.shields.io/badge/LinkedIn-george--volski-E5534B?style=for-the-badge&logo=linkedin&logoColor=F5F5F4&labelColor=0E0E0D" alt="LinkedIn" /></a>
-  <a href="mailto:volskigeorge@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-E5534B?style=for-the-badge&logo=gmail&logoColor=F5F5F4&labelColor=0E0E0D" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=George-Vol&style=flat-square&color=C1121F&label=Profile+views" alt="Profile views" />
 </p>
+
+---
+
+<h3 align="center">Tech stack</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=George-Vol&style=flat-square&color=E5534B&label=Profile+views" alt="Profile views" />
+  <img src="assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />&nbsp;
+  <img src="assets/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />&nbsp;
+  <img src="assets/icons/php.svg" alt="PHP" title="PHP" width="40" height="40" />&nbsp;
+  <img src="assets/icons/python.svg" alt="Python" title="Python" width="40" height="40" />&nbsp;
+  <img src="assets/icons/html5.svg" alt="HTML5" title="HTML5" width="40" height="40" />&nbsp;
+  <img src="assets/icons/css3.svg" alt="CSS3" title="CSS3" width="40" height="40" />
 </p>
-
----
-
-### About me
-
-- 💼 Full-Stack Developer at **re:soft**, building a pet-care e-commerce platform: catalog, checkout and payments
-- 🛠️ Previously delivered 6+ websites and apps end to end for startups and small businesses
-- 📱 Built a mobile app for a wearable personal-safety device and took it to a working prototype
-- 🎨 Design and code are two sides of the same coin: I take products from Figma to production
-- 🏛️ Studied law and worked as a junior architect before moving into code, so I care about structure and detail
-
-Most of my work is client code in private repos. The best place to see it is my [portfolio](https://georgev.vercel.app).
-
----
-
-### Tech stack
-
-**Languages & frameworks**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-262422?style=for-the-badge&labelColor=0E0E0D&color=262422&logoColor=E5534B&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-262422?style=for-the-badge&labelColor=0E0E0D&color=262422&logoColor=E5534B&logo=javascript)
-![React](https://img.shields.io/badge/React-262422?style=for-the-badge&labelColor=0E0E0D&color=262422&logoColor=E5534B&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-262422?style=for-the-badge&labelColor=0E0E0D&color=262422&logoColor=E5534B&logo=nextdotjs)
-![React Native](https://img.shields.io/badge/React_Native-262422?style=for-the-badge&labelColor=0E0E0D&color=262422&logoColor=E5534B&logo=react)
-![Vite](https://img.shields.io/badge/Vite-262422?style=for-the-badge&labelColor=0E0E0D&color=262422&logoColor=E5534B&logo=vite)
-![Node.js](https://img.shields.io/badge/Node.js-262422?style=for-the-badge&labelColor=0E0E0D&color=262422&logoColor=E5534B&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-262422?style=for-the-badge&labelColor=0E0E0D&color=262422&logoColor=E5534B&logo=express)
-![Laravel](https://img.shields.io/badge/Laravel-262422?style=for-the-badge&labelColor=0E0E0D&color=262422&logoColor=E5534B&logo=laravel)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-262422?style=for-the-badge&labelColor=0E0E0D&color=262422&logoColor=E5534B&logo=tailwindcss)
-
-**Data, cloud & tools**
-
-![Firebase](https://img.shields.io/badge/Firebase-262422?style=for-the-badge&labelColor=0E0E0D&color=262422&logoColor=E5534B&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-262422?style=for-the-badge&labelColor=0E0E0D&color=262422&logoColor=E5534B&logo=supabase)
-![MySQL](https://img.shields.io/badge/MySQL-262422?style=for-the-badge&labelColor=0E0E0D&color=262422&logoColor=E5534B&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-262422?style=for-the-badge&labelColor=0E0E0D&color=262422&logoColor=E5534B&logo=mongodb)
-![AWS](https://img.shields.io/badge/AWS-262422?style=for-the-badge&labelColor=0E0E0D&color=262422&logoColor=E5534B&logo=amazonwebservices)
-![Docker](https://img.shields.io/badge/Docker-262422?style=for-the-badge&labelColor=0E0E0D&color=262422&logoColor=E5534B&logo=docker)
-![Stripe](https://img.shields.io/badge/Stripe-262422?style=for-the-badge&labelColor=0E0E0D&color=262422&logoColor=E5534B&logo=stripe)
-![Git](https://img.shields.io/badge/Git-262422?style=for-the-badge&labelColor=0E0E0D&color=262422&logoColor=E5534B&logo=git)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-262422?style=for-the-badge&labelColor=0E0E0D&color=262422&logoColor=E5534B&logo=githubactions)
-
-**Design**
-
-![Figma](https://img.shields.io/badge/Figma-262422?style=for-the-badge&labelColor=0E0E0D&color=262422&logoColor=E5534B&logo=figma)
-![Adobe Creative Suite](https://img.shields.io/badge/Adobe_Creative_Suite-262422?style=for-the-badge&labelColor=0E0E0D&color=262422&logoColor=E5534B&logo=adobecreativecloud)
-![Blender](https://img.shields.io/badge/Blender-262422?style=for-the-badge&labelColor=0E0E0D&color=262422&logoColor=E5534B&logo=blender)
-
----
-
-### Featured
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**portfolio-2026**](https://github.com/George-Vol/portfolio-2026) | My portfolio, with separate development and design branches, case studies as data and an interactive dot-grid background. [Live →](https://georgev.vercel.app) | Next.js 16 · React 19 · TypeScript · Tailwind CSS 4 |
-
----
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=George-Vol&hide_border=true&background=0E0E0D&ring=E5534B&fire=E5534B&currStreakLabel=E5534B&sideLabels=F5F5F4&currStreakNum=F5F5F4&sideNums=F5F5F4&dates=A39E98" alt="GitHub streak" />
+  <img src="assets/icons/react.svg" alt="React" title="React" width="40" height="40" />&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/nextjs-light.svg" /><img src="assets/icons/nextjs.svg" alt="Next.js" title="Next.js" width="40" height="40" /></picture>&nbsp;
+  <img src="assets/icons/reactnative.svg" alt="React Native" title="React Native" width="40" height="40" />&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/expo-light.svg" /><img src="assets/icons/expo.svg" alt="Expo" title="Expo" width="40" height="40" /></picture>&nbsp;
+  <img src="assets/icons/vitejs.svg" alt="Vite" title="Vite" width="40" height="40" />&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/reactrouter-light.svg" /><img src="assets/icons/reactrouter.svg" alt="React Router" title="React Router" width="40" height="40" /></picture>&nbsp;
+  <img src="assets/icons/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" />&nbsp;
+  <img src="assets/icons/reactquery.svg" alt="TanStack Query" title="TanStack Query" width="40" height="40" />
 </p>
-
-<p align="center"><i>Have a product to build? Let's talk.</i></p>
+<p align="center">
+  <img src="assets/icons/nodejs.svg" alt="Node.js" title="Node.js" width="40" height="40" />&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/express-light.svg" /><img src="assets/icons/express.svg" alt="Express" title="Express" width="40" height="40" /></picture>&nbsp;
+  <img src="assets/icons/laravel.svg" alt="Laravel" title="Laravel" width="40" height="40" />&nbsp;
+  <img src="assets/icons/livewire.svg" alt="Livewire" title="Livewire" width="40" height="40" />
+</p>
+<p align="center">
+  <img src="assets/icons/supabase.svg" alt="Supabase" title="Supabase" width="40" height="40" />&nbsp;
+  <img src="assets/icons/firebase.svg" alt="Firebase" title="Firebase" width="40" height="40" />&nbsp;
+  <img src="assets/icons/appwrite.svg" alt="Appwrite" title="Appwrite" width="40" height="40" />&nbsp;
+  <img src="assets/icons/mysql.svg" alt="MySQL" title="MySQL" width="40" height="40" />&nbsp;
+  <img src="assets/icons/mongodb.svg" alt="MongoDB" title="MongoDB" width="40" height="40" />
+</p>
+<p align="center">
+  <img src="assets/icons/docker.svg" alt="Docker" title="Docker" width="40" height="40" />&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/amazonwebservices-light.svg" /><img src="assets/icons/amazonwebservices.svg" alt="AWS" title="AWS" width="40" height="40" /></picture>&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/vercel-light.svg" /><img src="assets/icons/vercel.svg" alt="Vercel" title="Vercel" width="40" height="40" /></picture>&nbsp;
+  <img src="assets/icons/githubactions.svg" alt="GitHub Actions" title="GitHub Actions" width="40" height="40" />&nbsp;
+  <img src="assets/icons/git.svg" alt="Git" title="Git" width="40" height="40" />&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/github-light.svg" /><img src="assets/icons/github.svg" alt="GitHub" title="GitHub" width="40" height="40" /></picture>
+</p>
+<p align="center">
+  <img src="assets/icons/figma.svg" alt="Figma" title="Figma" width="40" height="40" />&nbsp;
+  <img src="assets/icons/photoshop.svg" alt="Photoshop" title="Photoshop" width="40" height="40" />&nbsp;
+  <img src="assets/icons/illustrator.svg" alt="Illustrator" title="Illustrator" width="40" height="40" />&nbsp;
+  <img src="assets/icons/blender.svg" alt="Blender" title="Blender" width="40" height="40" />
+</p>
