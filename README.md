@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="George Volski, Full-Stack Developer" width="100%" />
+  <img src="assets/banner-red.png" alt="George Volski, Full-Stack Developer" width="100%" />
 </p>
 
 <h2 align="center">Hi, I'm George 👋</h2>
